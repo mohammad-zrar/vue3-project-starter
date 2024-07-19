@@ -23,6 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
+yarn.lock
+package-lock.json
+
+
 .env
 .env.local
 .env.[mode]
